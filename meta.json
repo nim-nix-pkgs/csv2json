@@ -7,7 +7,7 @@
   "license": "MIT",
   "web": "https://github.com/achesak/nim-csv2json",
   "refs": [
-    "fatal: unable to access 'https://github.com/achesak/nim-csv2json/': SSL connection timeout",
+    "fatal: unable to access 'https://github.com/achesak/nim-csv2json/': Could not resolve host: github.com",
     ""
   ],
   "heads": []
